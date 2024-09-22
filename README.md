@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cheffloppa1
 - 👀 I’m interested in malware analysis and web dev
-- 🌱 I’m currently learning  malware analysis and web dev
+- 🌱 I’m currently learning  malware analysis, web dev and game hacking
 - ⚡ Fun fact: there is a ransomware attack every 2 seconds
 
 <!---
